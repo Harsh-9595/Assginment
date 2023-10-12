@@ -1,0 +1,59 @@
+/* Created By Harsh Panchal - 8909782 */
+
+body{
+    border: 1px;
+    width: 100%;
+    max-width: 1000px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+header,footer{
+    border: 2px solid #65c307ac;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1,h2{
+    color: #dfdb0c;
+    font-variant: small-caps;
+}
+footer p {
+    font-size: 14px; color:：#333;
+}
+main{
+    width: 60%;
+    padding: 10px; margin: 10px 0;
+}
+    aside{
+    position: absolute;
+    top: 110px; right: 0; float: right; width: 30%; padding: 5px; margin: 15px;
+    }
+    .mainimg img{
+        border: 1px solid #333;
+        height: 200px;
+        width: 200px;
+    }
+
+    figcaption{
+        font-weight: bold;
+        font-variant: small-caps;
+    }
+
+    q{
+        font-family: cursive;
+        font-style: italic;
+        font-size: 18px;
+    }
+
+    ul li{
+        line-height: 2;
+    }
+    ul li{
+        color: #0077cc;
+    }
+    ul li a:hover{
+        color: #FF5500;
+    }
